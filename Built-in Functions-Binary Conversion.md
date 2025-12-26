@@ -18,4 +18,4 @@ print(binary_number)
 ![WhatsApp Image 2025-12-26 at 7 25 17 PM](https://github.com/user-attachments/assets/8242129a-d25b-416d-9ce8-adf5fb23233b)
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
